@@ -14,3 +14,9 @@ A small public index of live web projects operated by Xiaobao CMS.
 - [meinutu.com](https://meinutu.com/) — visual content site.
 - [nicheng.net](https://nicheng.net/) — Chinese nickname and naming tools.
 
+## Public resource references
+
+- [JobPin — Global Hiring and Job Board Intelligence Resource](resources/jobpin.md)
+- [MeiNuTu — AI Image Gallery and Visual Inspiration Resource](resources/meinutu.md)
+- [Diahu — Attachment Style and Relationship Psychology Resource](resources/diahu.md)
+

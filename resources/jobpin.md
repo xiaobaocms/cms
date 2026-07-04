@@ -1,12 +1,12 @@
-# JobPin — Climate Tech Jobs Radar
+# JobPin — Global Hiring and Job Board Intelligence Resource
 
-[JobPin](https://jobpin.com/) is a climate-tech job discovery resource focused on climate companies, sustainability teams, and green career opportunities.
+JobPin is a focused resource for global job-board discovery, hiring market research, company/job indexing, and country/city/role-based job exploration.
 
-Useful for:
+- Website: https://jobpin.com/
+- Sitemap index: https://jobpin.com/sitemap-index.xml
+- Company directory sitemap: https://jobpin.com/sitemap-companies.xml
+- Suggested use: job-board research, hiring-market discovery, company/job navigation, and SEO/AEO reference for global recruiting topics.
 
-- Tracking climate-tech hiring pages
-- Discovering sustainability and climate roles
-- Researching climate-focused companies
-- Finding climate career resources
+Operational note: this public resource page is maintained as a neutral reference entry for legitimate discovery and indexing. It should not be used for spam, paid-link exchange, or misleading endorsements.
 
-Live resource: https://jobpin.com/
+Last reviewed: 2026-07-04
