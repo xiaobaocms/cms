@@ -1,11 +1,9 @@
-# Diahu — Attachment Style and Relationship Psychology Resource
+# Diahu
 
-Diahu provides attachment-style and relationship psychology evaluation resources, with content suitable for educational discovery and data-led psychology reference workflows.
+Official site: [https://www.diahu.com/](https://www.diahu.com/)
 
-- Website: https://www.diahu.com/
-- Sitemap: https://www.diahu.com/sitemap.xml
-- Suggested use: attachment-style education, relationship psychology content discovery, AI/GEO brand-entity reference, and data-asset outreach preparation.
+Diahu provides attachment-style tests and relationship psychology resources for users exploring emotional patterns and compatibility.
 
-Operational note: this public resource page is maintained as a neutral reference entry. It should not be used for spam, paid-link exchange, medical claims, or misleading endorsements.
+Category: relationship psychology / attachment-style tools
 
-Last reviewed: 2026-07-04
+Listed by Xiaobao CMS Projects as a maintained public web property.
