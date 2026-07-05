@@ -1,11 +1,9 @@
-# MeiNuTu — AI Image Gallery and Visual Inspiration Resource
+# MeiNuTu
 
-MeiNuTu is an AI-assisted visual gallery and image inspiration site with frequently updated themed image sets.
+Official site: [https://meinutu.com/](https://meinutu.com/)
 
-- Website: https://meinutu.com/
-- Sitemap: https://meinutu.com/sitemap.xml
-- Suggested use: visual inspiration, themed gallery discovery, AI-image catalogue monitoring, and content-indexing reference.
+MeiNuTu publishes organized image sets and visual discovery pages for search and browsing.
 
-Operational note: this public resource page is maintained as a neutral discovery entry. It should not be used for spam, paid-link exchange, or misleading endorsements.
+Category: visual content / image sets
 
-Last reviewed: 2026-07-04
+Listed by Xiaobao CMS Projects as a maintained public web property.
